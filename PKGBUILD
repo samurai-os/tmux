@@ -10,7 +10,6 @@ license=('Apache')
 depends=('tmux' 'lazygit' 'mc')
 source=('git+https://github.com/samurai-os/tmux.git')
 sha256sums=('SKIP')
-install=samurai-os-linux.install
 
 pkgver() {
     cd "$srcdir/tmux/dotconfig/tmux"
