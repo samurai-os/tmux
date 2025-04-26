@@ -1,7 +1,7 @@
 # Maintainer: Paul Buzakov <paulbuzakov@gmail.com>
 # Created for Samurai OS DevTeam based on Arch Linux
 pkgname=samurai-os-tmux
-pkgver=263656f
+pkgver=314336f
 pkgrel=1
 pkgdesc="A terminal multiplexer for the Samurai OS DevTeam."
 arch=('x86_64' 'arm64')

@@ -1,4 +1,4 @@
 post_install() {
     echo "To use Samurai OS tmux configuration, run the following command:"
-    echo "ln -sf /etc/samurai-os/tmux ~/.config/tmux"
+    ln -sf /etc/samurai-os/tmux ~/.config/tmux
 }
